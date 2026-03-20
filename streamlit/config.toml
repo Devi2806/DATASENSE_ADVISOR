@@ -1,0 +1,19 @@
+[global]
+developmentMode = false
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[theme]
+base = "dark"
+
+[runner]
+pythonVersion = "3.11"
+
